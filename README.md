@@ -1,7 +1,8 @@
+## Greetings
 - 👋 Hi, I’m @dwikurniantom
 - 👀 I’m interested in Flutter, Lumens, VueJs
 - 🌱 I’m currently learning VueJs and Lumens
-- 💞️ I’m looking to collaborate on Point of sales and logistic application
+- 💞️ I’m looking to collaborate Flutter, VueJs and Lumens
 - 📫 How to reach me, Just e-mail me at dwikurnianto.mulyadien@gmail.com
 
 <!---
