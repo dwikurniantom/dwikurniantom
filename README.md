@@ -11,3 +11,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Feel free to use my public repository, but don't forget to mention !
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwikurniantom)](https://github.com/anuraghazra/github-readme-stats)
