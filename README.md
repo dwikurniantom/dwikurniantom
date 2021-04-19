@@ -15,3 +15,5 @@ Feel free to use my public repository, but don't forget to mention !
 ## Github Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwikurniantom&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![dwikurniantom GitHub stats](https://github-readme-stats.vercel.app/api?username=dwikurniantom&show_icons=true&theme=radical)
