@@ -1,5 +1,6 @@
 ## Greetings
 - 👋 Hi, I’m @dwikurniantom
+- 💻 Currently I’m working as Mobile Application Developer at Evermos
 - 👀 I’m interested in Flutter, Lumens, VueJs
 - 🌱 I’m currently learning VueJs and Lumens
 - 💞️ I’m looking to collaborate Flutter, VueJs and Lumens
@@ -10,7 +11,7 @@ dwikurniantom/dwikurniantom is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-Feel free to use my public repository, but don't forget to mention !
+Feel free to use my public repository, but please don't steal
 
 ## Github Stats
 
